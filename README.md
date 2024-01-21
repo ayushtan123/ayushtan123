@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [😎](https://github.com/ayushtan123)
 
-- ⚡ Fun fact **I possess great leadership skills and outstood my team**
+- ⚡ **I possess great leadership skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
