@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ayush Tandon</h1>
 <h3 align="center">CS Sophomore @ Delhi Technological University</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushtan123&label=Profile%20views&color=0e75b6&style=flat" alt="ayushtan123" /> </p>
 
 - 🔭 I’m currently working on **Advanced ML Algorithms**
 
