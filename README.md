@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me **ayushtandon_co22a3_44@dtu.ac.in**
 - ⚡ I possess great leadership skills
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Biking.png" alt="Man Biking" width="30" height="30" /> I love cycling and badminton! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Badminton.png" alt="Badminton" width="30" height="30" />
-- Joke ➡️ What did the tomato say to the other tomato during a race? "Ketchup"
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
