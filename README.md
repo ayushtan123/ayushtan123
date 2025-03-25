@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <h1>Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />, I'm Ayush Tandon <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="75" height="75" /></h1>
 <p>CS Junior @ Delhi Technological University</p>
+<p>Morgan Stanley Code to Give 2025 Participant</p>
 
 - Find me at the gym or at terrace watching planes and sky.
 - I love cycling <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Biking.png" alt="Man Biking" width="30" height="30" />  and badminton! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Badminton.png" alt="Badminton" width="30" height="30" />
