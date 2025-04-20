@@ -4,7 +4,7 @@
   <tr>
     <td>
       <p>CSE Junior @ Delhi Technological University</p>
-      <p>Morgan Stanley Code to Give 2025 Finalist | Incoming SDE Intern @ Expedia Group</p>
+      <p>Incoming SDE Intern @ Expedia Group | Morgan Stanley Code to Give 2025 Finalist </p>
       <ul>
         <li>Find me at the gym 🏋️ or on the terrace watching planes and the sky.</li>
         <li>I love cycling <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Biking.png" alt="Man Biking" width="30" height="30"/> and badminton! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Badminton.png" alt="Badminton" width="30" height="30"/></li>
@@ -42,7 +42,9 @@
 </p>
 
 ![](https://leetcard.jacoblin.cool/ayushtan123?theme=dark&font=Khand&ext=heatmap)
+## One year of consistency at Leetcode
+<img src="https://github.com/user-attachments/assets/31d46a2b-5eeb-4d6f-b232-ad4ddb343304" width="300" height="200" alt="Description of image">
+<img src="https://github.com/user-attachments/assets/ab9f1308-2dec-46c9-a84f-893770735aaa" width="800" height="400" alt="Description of image">
 
-![delhi 1 s](https://github.com/user-attachments/assets/ab9f1308-2dec-46c9-a84f-893770735aaa)
 
 
