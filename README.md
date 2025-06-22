@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td>
-      <p>CSE Junior @ Delhi Technological University</p>
-      <p>Incoming SDE Intern @ Expedia Group | Morgan Stanley Code to Give 2025 Finalist </p>
+      <p>CSE Senior @ Delhi Technological University</p>
+      <p>SDE Intern @ Expedia Group | Morgan Stanley Code to Give 2025 Finalist </p>
       <ul>
         <li>Find me at the gym 🏋️ or on the terrace watching planes and the sky.</li>
         <li>I love cycling <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Biking.png" alt="Man Biking" width="30" height="30"/> and badminton! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Badminton.png" alt="Badminton" width="30" height="30"/></li>
