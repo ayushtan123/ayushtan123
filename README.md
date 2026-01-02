@@ -17,55 +17,21 @@
   </tr>
 </table>
 
+
 ### 🤝 Connect with Me
 <p align="center">
 <a href="https://linkedin.com/in/ayushtan123"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ayushtan1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.leetcode.com/ayushtan123"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 <a href="https://codeforces.com/profile/ayushtan123"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+<a href="https://docs.google.com/spreadsheets/d/1fqLljnFOJAwcPMy0LqjQ0mKyLSq4UKZqfy1nut-qGUs/edit?usp=sharing"><img src="https://img.shields.io/badge/DSA%20Sheet-32CD32?style=for-the-badge&logo=DSA-Tracking&logoColor=white" /></a>
 </p>
-
-### 💼 Professional Experience & Achievements
-
-<table>
-  <tr>
-    <td width="100">
-      <img width="100" alt="Expedia Group" src="https://github.com/user-attachments/assets/b95e42ae-f51f-4eab-a5fa-ce8c857b0015" />
-    </td>
-    <td>
-      <b>SDE Intern @ Expedia Group</b> <br/>
-      <ul>
-        <li>Built <b>AI Ops</b>, an GenAI-based LLM assistant designed to provide oncall appropriate analysis and actions on API alerts.</li>
-        <li>Streamlined the debugging process for the checkout team, significantly reducing manual overhead by 50%.</li>
-        <li>Developed AI agents using Spring Boot and Koog framework of Kotlin, along with designing optimized LLM prompts.</li>
-      </ul>
-      <img src="https://img.shields.io/badge/Tech-MCP_Servers-060383?style=flat-square" />
-      <img src="https://img.shields.io/badge/Focus-Agentic_AI-060383?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="100">
-     <img width="100" alt="Morgan Stanley" src="https://github.com/user-attachments/assets/76f714e9-1b36-42b4-960b-361b64f06e8a" />
-    </td>
-    <td>
-      <b>Finalist @ Morgan Stanley Code to Give 2025</b> <br/>
-      <font size="2"><i>Hackathon</i></font><br/>
-      <ul>
-        <li> Built Beyond Sight, an accessible event and volunteer management platform for Samarthanam Trust (NGO).</li>
-        <li>Integrated volunteer matching, real-time analytics and multi-lingual support to streamline event coordination.</li>
-        <li>Emerged as Top 4 Finalist out of 35000+ applicants across India.</li>
-      </ul>
-      <img src="https://img.shields.io/badge/Achievement-Top_Finalist-00355f?style=flat-square" />
-      <img src="https://img.shields.io/badge/Focus-Social_Impact-00355f?style=flat-square" />
-    </td>
-  </tr>
-</table>
 
 ---
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,mongodb,mysql,opencv,git" />
+   <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,spring,python,docker,js,ts,react,nodejs,mongodb,mysql,opencv,git" />
 </p>
 
 ---
